@@ -1,4 +1,7 @@
-# test coverage for  sticky-session (v1.1.2)  [![npm package](https://img.shields.io/npm/v/npmtest-sticky-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sticky-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sticky-session.svg)](https://travis-ci.org/npmtest/node-npmtest-sticky-session)
+# npmtest-sticky-session
+
+#### basic test coverage for  sticky-session (v1.1.2)  [![npm package](https://img.shields.io/npm/v/npmtest-sticky-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sticky-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sticky-session.svg)](https://travis-ci.org/npmtest/node-npmtest-sticky-session)
+
 #### Sticky session balancer based on a `cluster` module
 
 [![NPM](https://nodei.co/npm/sticky-session.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sticky-session)
